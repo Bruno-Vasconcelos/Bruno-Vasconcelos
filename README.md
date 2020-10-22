@@ -1,28 +1,21 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on
+## 🔭 I’m currently working on
  
- Web projects
+ - Web projects
  
- College projects
- 
- 
+ - College projects
  
  
-- 🌱 I’m currently learning
+##🌱 I’m currently learning
 
-javaScript
+- javaScript
 
+## 📫 How to reach me:
 
+- <a href="https://www.linkedin.com/in/brunov-vasconcelos/">LinkedIn</a>
 
-
-- 📫 How to reach me:
-
-<a href="https://www.linkedin.com/in/brunov-vasconcelos/">LinkedIn</a>
-
-<a href="mailto:brunovictorvasconcelos@gmail.com">email</a>
-
-
+- <a href="mailto:brunovictorvasconcelos@gmail.com">email</a>
 
 
 <!--

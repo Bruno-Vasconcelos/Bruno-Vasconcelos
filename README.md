@@ -14,6 +14,8 @@ javaScript
 
 <a href="https://www.linkedin.com/in/brunov-vasconcelos/">LinkedIn</a>
 
+<a href="mailto:brunovictorvasconcelos@gmail.com">email</a>
+
 
 
 

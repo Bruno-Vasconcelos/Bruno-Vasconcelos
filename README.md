@@ -1,5 +1,22 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on
+ 
+ Web projects
+ 
+ College projects
+ 
+- 🌱 I’m currently learning
+
+javaScript
+
+- 📫 How to reach me:
+
+<a href="https://www.linkedin.com/in/brunov-vasconcelos/">LinkedIn</a>
+
+
+
+
 <!--
 **Bruno-Vasconcelos/Bruno-Vasconcelos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -8,6 +8,8 @@
 ## 🌱 I’m currently learning
 
 - javaScript
+- typescript
+- react-native
 
 ## 📫 How to reach me:
 
